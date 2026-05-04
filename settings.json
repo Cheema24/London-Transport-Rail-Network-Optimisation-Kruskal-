@@ -1,0 +1,9 @@
+
+{
+  "python.analysis.extraPaths": [
+    "./task4",
+    "./clrsPython/Utility functions",
+    "./clrsPython/Chapter 21",
+    "./clrsPython/Chapter 19"
+  ]
+}
